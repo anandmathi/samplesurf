@@ -1,5 +1,5 @@
 import React from "react";
-import List from "@mui/material/list";
+import {List} from "@material-ui/core";;
 import Track, {SimilarTrack} from "./Track";
 import {Button, Divider, Typography} from "@material-ui/core";
 import {styled} from '@mui/material/styles';
