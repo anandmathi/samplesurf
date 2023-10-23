@@ -4,6 +4,7 @@
 SampleSurf is an open-source utility that empowers music enthusiasts to explore their favorite songs. It utilizes the Spotify Web API and web-scraping software to help producers discover new songs to incorporate into their own music.
 
 [Video Demo](https://www.youtube.com/watch?v=58AY8ZAPC5o&ab_channel=AnandMathi)
+[Live Demo](https://samplesurf.netlify.app/)
 
 ## Local Setup
 The following should be done in the project root directory unless otherwise specified.
